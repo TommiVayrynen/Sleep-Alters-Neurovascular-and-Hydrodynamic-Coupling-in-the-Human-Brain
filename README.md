@@ -7,6 +7,6 @@ The analyses requires following external packages:
 PhaseTE calculation; Nitin Williams, eeg_meg_analysis, GitHub
 https://github.com/nitinwilliams/eeg_meg_analysis/tree/master/phaseTE
 
-Morlet wavelet convolution modified from;
-Mike X Cohen ,AnalyzingNeuralTimeSeries, GitHub
+Morlet wavelet convolution adapted from;
+Mike X Cohen, AnalyzingNeuralTimeSeries, GitHub
 https://github.com/mikexcohen/AnalyzingNeuralTimeSeries
